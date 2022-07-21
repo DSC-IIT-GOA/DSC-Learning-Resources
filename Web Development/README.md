@@ -1,6 +1,6 @@
 # Ola! 👋
 
-This community and repository is created with the spirit of helping anyone break into Web Development and working with the DSC Chapter to build a community of Web Development Enthusiasts right here in DYPCOE. Resources include course/blog/tutorial/research paper links as well as prospective project ideas.
+This community and repository is created with the spirit of helping anyone break into Web Development and working with the DSC Chapter to build a community of Web Development Enthusiasts right here in IIT Goa. Resources include course/blog/tutorial/research paper links as well as prospective project ideas.
 
 ## Roadmaps
 

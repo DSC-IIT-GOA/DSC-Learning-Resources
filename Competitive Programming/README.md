@@ -1,9 +1,10 @@
-# Competitive Programming - DSC DYPCOE
+# Competitive Programming - DSC IIT Goa
 
 Hello Programmers💻,
 A one stop Destination for all your Competitive Programming Resources.
 
 ## What is Competitive Programming?
+
 According to us, competitive programming is a sport. A sport based on problem-solving skills, thinking ability, speed testing, regularity and to be precise. Competitive Programming will help you building logic and implementing that logic to find solutions to a real-world problem. Brainstorming upon your code will definitely increase your coding skills as well as it will help to expand your thinking capacity. Thus practising Competitive Programming on day to day basis help you in mastering that particular language. And believe us, if you are playing this sport regularly, you are already prepared for the technical rounds of the Interviews. So now lets dive in the ocean of **Competitive Programming.**
 
 ## Platform to practice Competitive Programming
@@ -18,28 +19,35 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - #### [AtCoder](https://atcoder.jp/)
 - #### [Sphere Online Judge(SPOJ)](https://www.spoj.com/)
 
-
 ## Most Prestigious Programming Contests
- - [Google KickStart🏆](https://codingcompetitions.withgoogle.com/kickstart)
- - [ACM ICPC (Olympics of Programming)🏆](https://icpc.global/)
- - [Google CodeJam🏆](https://codingcompetitions.withgoogle.com/codejam)
- - [FaceBook Hacker Cup🏆](https://www.facebook.com/hackercup/contest)
- - [TCS CodeVita🏆](https://campuscommune.tcs.com/en-in/intro/contests/codevita-season-9)
- - [Google HashCode🏆](https://codingcompetitions.withgoogle.com/hashcode/)
- - [CodeChef's SnackDown🏆](https://www.codechef.com/snackdown)
+
+- [Google KickStart🏆](https://codingcompetitions.withgoogle.com/kickstart)
+- [ACM ICPC (Olympics of Programming)🏆](https://icpc.global/)
+- [Google CodeJam🏆](https://codingcompetitions.withgoogle.com/codejam)
+- [FaceBook Hacker Cup🏆](https://www.facebook.com/hackercup/contest)
+- [TCS CodeVita🏆](https://campuscommune.tcs.com/en-in/intro/contests/codevita-season-9)
+- [Google HashCode🏆](https://codingcompetitions.withgoogle.com/hashcode/)
+- [CodeChef's SnackDown🏆](https://www.codechef.com/snackdown)
+
 ---
+
 #### [List of all the upcoming contests](https://clist.by/)
+
 ---
+
 ## Books
+
 - [Competitive Programming 3📚](https://cpbook.net/)
 - [Data Structures and Algorithms Made Easy📚](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X) - by Narasimha Karumanchi
 - [Cracking the Coding Interview📚](http://www.crackingthecodinginterview.com/) - by Gayle Laakmann McDowell
 
 ## Algorithms
+
 - [CP Algorithms](https://cp-algorithms.com/)
 - [Visual Alogorithms](https://visualgo.net/en)
 
 ## Code Visualisation
+
 - [C++ Code Visualisation](http://www.pythontutor.com/cpp.html)
 - [JAVA Code Visualisation](http://www.pythontutor.com/visualize.html)
 - [PYTHON Code Visualisation](http://www.pythontutor.com/visualize.html)
@@ -48,15 +56,18 @@ According to us, competitive programming is a sport. A sport based on problem-so
 
 ### Big O Notations
 
- - **CS Dojo** - Introduction to Big O Notation and Time Complexity
- - **Simple Snippets** - Asymptotic Analysis of Algorithms with Example
- - **Big-O CheatSheet** https://www.bigocheatsheet.com/
+- **CS Dojo** - Introduction to Big O Notation and Time Complexity
+- **Simple Snippets** - Asymptotic Analysis of Algorithms with Example
+- **Big-O CheatSheet** https://www.bigocheatsheet.com/
+
 ---
- ### STL in C++
- - **Codealittle** - https://www.youtube.com/watch?v=PCahjLFtlbY&list=PL1oKdRlSbldPUXbtWctRz14C1f8R78MVZ
- - **Takeyouforward** - https://www.youtube.com/watch?v=zBhVZzi5RdU&t=1s
- 
- - [ ] [Vectors (Dynamic Arrays)](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
+
+### STL in C++
+
+- **Codealittle** - https://www.youtube.com/watch?v=PCahjLFtlbY&list=PL1oKdRlSbldPUXbtWctRz14C1f8R78MVZ
+- **Takeyouforward** - https://www.youtube.com/watch?v=zBhVZzi5RdU&t=1s
+
+- [ ] [Vectors (Dynamic Arrays)](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
 - [ ] [Sets](https://www.geeksforgeeks.org/set-in-cpp-stl/)
   - [Set](https://www.geeksforgeeks.org/set-in-cpp-stl/)
   - [Unordered Set](https://www.geeksforgeeks.org/unordered_set-in-cpp-stl/)
@@ -70,130 +81,171 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - [ ] [Pairs](https://www.geeksforgeeks.org/pair-in-cpp-stl/)
 - [ ] [Priority Queue (Min - Max Heaps)](https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/)
 - [ ] [Deque](https://www.geeksforgeeks.org/deque-cpp-stl/)
----
- ### Binary Search
- - **Aditya Verma** https://www.youtube.com/watch?v=j7NodO9HIbk&list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2
----
- ### Number Theory (Mathematics)
- - **CodeNCode** - https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG
----
- ### Recursion and BackTracking
- - **Aditya Verma** - https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY
- - **Codealittle** - https://www.youtube.com/watch?v=-9FinR1AVys&list=PL1oKdRlSbldN8ffk23nuYQZwO0HSIPy9F 
----
- ### Bit Manipulations
- - **Codealittle** - https://www.youtube.com/watch?v=5upadP-hWXQ&list=PL1oKdRlSbldNz2p_xrBMf2GhCKRm-cH2A 
- - **codencode** - https://www.youtube.com/watch?v=efL86JCONH0&list=PL2q4fbVm1Ik7ip1VkWwe5U_CEb93vw6Iu
----
- ### Graph Theory
- - **CodeNcode** - https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh
- - **Hitesh Tripathi** - https://www.youtube.com/watch?v=1BPQYzCYDx4&list=PLJOYB9TDUqmlnn9mu11qHxxQK_ioX9Wdm
----
- ### Dynamic Programing
- - **Tushar Roy** - https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
- - **GeeksforGeeks** - https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
- - **Aditya Verma** - https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
- - **TakeYouForward** - https://www.youtube.com/watch?v=PPi3326JhGc&list=PLgUwDviBIf0pmD4Eur6Cl5XfBO4EtgKGe 
+
 ---
 
+### Binary Search
 
-## Searching  
-- Linear Search 
-- Binary Search 
+- **Aditya Verma** https://www.youtube.com/watch?v=j7NodO9HIbk&list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2
+
 ---
+
+### Number Theory (Mathematics)
+
+- **CodeNCode** - https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG
+
+---
+
+### Recursion and BackTracking
+
+- **Aditya Verma** - https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY
+- **Codealittle** - https://www.youtube.com/watch?v=-9FinR1AVys&list=PL1oKdRlSbldN8ffk23nuYQZwO0HSIPy9F
+
+---
+
+### Bit Manipulations
+
+- **Codealittle** - https://www.youtube.com/watch?v=5upadP-hWXQ&list=PL1oKdRlSbldNz2p_xrBMf2GhCKRm-cH2A
+- **codencode** - https://www.youtube.com/watch?v=efL86JCONH0&list=PL2q4fbVm1Ik7ip1VkWwe5U_CEb93vw6Iu
+
+---
+
+### Graph Theory
+
+- **CodeNcode** - https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh
+- **Hitesh Tripathi** - https://www.youtube.com/watch?v=1BPQYzCYDx4&list=PLJOYB9TDUqmlnn9mu11qHxxQK_ioX9Wdm
+
+---
+
+### Dynamic Programing
+
+- **Tushar Roy** - https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
+- **GeeksforGeeks** - https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
+- **Aditya Verma** - https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
+- **TakeYouForward** - https://www.youtube.com/watch?v=PPi3326JhGc&list=PLgUwDviBIf0pmD4Eur6Cl5XfBO4EtgKGe
+
+---
+
+## Searching
+
+- Linear Search
+- Binary Search
+
+---
+
 ## Sorting
-- Selection Sort 
-- Bubble Sort 
-- Insertion Sort 
-- Merge Sort 
-- Quick Sort 
-- Heap Sort 
-- Radix Sort 
-- Count Sort 
+
+- Selection Sort
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Heap Sort
+- Radix Sort
+- Count Sort
+
 ---
-## Mathematics: 
+
+## Mathematics:
 
 ### Playlists
- - **CodeNcode** - https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh
- 
-### Number Theory 
-- Prime Number Generation (Sieve, Segmented Sieve) 
-- Euler Totient Theorem 
-- Fermat’s Theorem 
-- HCF & LCM (Euclid) 
-- Linear Diophantine Equations (Extended Euclid) 
-- Modulus Arithmetic (addition,multiplication,subtraction,modular Inverse) 
 
-### Probability 
-- Basic Probability and Conditional Probability 
-- Random Variables 
-- Probability Generating Functions 
-- Expectation 
-- Probability Distribution [Binomial, Poisson, Normal,Bernoulli] 
+- **CodeNcode** - https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh
 
-### Linear Algebra 
-- Multiplication ( Strassen's algorithm ), Logarithmic exponentiation 
-- Matrix Transformations [ Transpose, Rotation Of Matrix, Representing Linear Transformations Using Matrix ] 
-- Determinant , Rank and Inverse Of Matrix [ Gaussian Elimination , Gauss Jordan Elimination] 
-- Solving System Of Linear Equations 
-- Matrix Exponentiation To Solve Recurrences 
+### Number Theory
+
+- Prime Number Generation (Sieve, Segmented Sieve)
+- Euler Totient Theorem
+- Fermat’s Theorem
+- HCF & LCM (Euclid)
+- Linear Diophantine Equations (Extended Euclid)
+- Modulus Arithmetic (addition,multiplication,subtraction,modular Inverse)
+
+### Probability
+
+- Basic Probability and Conditional Probability
+- Random Variables
+- Probability Generating Functions
+- Expectation
+- Probability Distribution [Binomial, Poisson, Normal,Bernoulli]
+
+### Linear Algebra
+
+- Multiplication ( Strassen's algorithm ), Logarithmic exponentiation
+- Matrix Transformations [ Transpose, Rotation Of Matrix, Representing Linear Transformations Using Matrix ]
+- Determinant , Rank and Inverse Of Matrix [ Gaussian Elimination , Gauss Jordan Elimination]
+- Solving System Of Linear Equations
+- Matrix Exponentiation To Solve Recurrences
+
 ---
+
 ### Game Theory - https://www.youtube.com/watch?v=_thN1Rp_FRA
---- 
-## Graphs: 
+
+---
+
+## Graphs:
 
 ### Playlists
-  - **CodeNCode** - https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG
 
-### Graph Representation 
-- Adjacency Matrix 
-- Adjacency List 
+- **CodeNCode** - https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG
 
-### Graph Types 
-- Directed 
-- Undirected 
-- Weighted 
+### Graph Representation
+
+- Adjacency Matrix
+- Adjacency List
+
+### Graph Types
+
+- Directed
+- Undirected
+- Weighted
 - Unweighted
-- Euler 
+- Euler
 
-### Graph Concepts 
+### Graph Concepts
+
 - DFS
 - BFS
-- Strongly Connected Component 
+- Strongly Connected Component
 - Connected Component
-- Cycle Detection 
-- Articulation Points 
-- Bridges   
-- Topological Sorting 
-- Bipartite Checking 
-- Flood-fill algorithm 
----
-## Graph/Tree Algorithms 
-- Prim’s Algorithm 
-- Kruskal Algorithm 
-- Dijkstra 
-- Bellman Ford 
-- Floyd Warshall’s Algorithm 
-- Euler Tour 
+- Cycle Detection
+- Articulation Points
+- Bridges
+- Topological Sorting
+- Bipartite Checking
+- Flood-fill algorithm
 
 ---
-## Dynamic Programming 
+
+## Graph/Tree Algorithms
+
+- Prim’s Algorithm
+- Kruskal Algorithm
+- Dijkstra
+- Bellman Ford
+- Floyd Warshall’s Algorithm
+- Euler Tour
+
+---
+
+## Dynamic Programming
 
 ### Playlists
+
 - **Tushar Roy** - https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
 - **GeeksforGeeks** - https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
 
-### Classical Problems 
-- Fibonacci Series
-- Longest Common Substring 
-- Longest Increasing Subsequence 
-- Longest Palindromic Substring 
-- Edit Distance 
-- Egg Dropping Puzzle 
-- Integer Knapsack 
-- Longest Common Subsequence 
-- Longest Substring Without Repeating Character 
-- Matrix Chain Multiplication 
-- Max Size Square Submatrix With One 
-- Maximum Length Chain
+### Classical Problems
 
+- Fibonacci Series
+- Longest Common Substring
+- Longest Increasing Subsequence
+- Longest Palindromic Substring
+- Edit Distance
+- Egg Dropping Puzzle
+- Integer Knapsack
+- Longest Common Subsequence
+- Longest Substring Without Repeating Character
+- Matrix Chain Multiplication
+- Max Size Square Submatrix With One
+- Maximum Length Chain

@@ -5,7 +5,7 @@
 This repository contains curated, useful resources drafted by DSC Domain Leads of various colleges.
 
 - Android
-- AR 
+- AR
 - Cloud computing
 - Competitve Programming
 - Cybersecurtiy

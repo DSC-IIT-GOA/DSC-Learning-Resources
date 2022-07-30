@@ -1,4 +1,4 @@
-# Ola! 👋
+# HELLO THERE! 👋
 
 This community and repository is created with the spirit of helping anyone break into Web Development and working with the DSC Chapter to build a community of Web Development Enthusiasts right here in IIT Goa. Resources include course/blog/tutorial/research paper links as well as prospective project ideas.
 
@@ -11,7 +11,7 @@ Before you dive into any of these roadmaps, keep in mind that these are full fle
 ### Complete Roadmaps
 
 - [Traversy Media](https://www.youtube.com/watch?v=0pThnRneDjw)
-- [LearnCode Academy](https://www.youtube.com/watch?v=SBB1YtwODT0&t=506s)
+- [Traversy Media Guide](https://traversymedia.com/guide)
 
 ### FrontEnd Roadmaps
 

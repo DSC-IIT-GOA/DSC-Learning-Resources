@@ -14,7 +14,6 @@ AI, ML and DL Resource
 > Artificial Intelligence, Machine learning and Deep Learning Resources. 🚀 FREE AI/ML/DL Resources - 🎓 Courses, 📝 Blogs, 🔬 Research, and many more!
 
 <a href="https://github.com/srajan-kiyotaka">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/DSC-IIT-GOA?label=Follow&style=social"/></a>
 <img src="https://img.shields.io/github/stars/DSC-IIT-GOA/DSC-Learning-Resources?style=social" alt="Stars Badge"/>
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/DSC-IIT-GOA/DSC-Learning-Resources?style=social">
 </div>

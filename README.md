@@ -24,9 +24,9 @@ Learning Resources
 - [AI](AI)
 - [Android](Android)
 - [AR](AR)
-- [Cloud Computing](Cloud Computing)
-- [Competitve Programming](Competitive Programming)
+- [Cloud Computing](https://github.com/DSC-IIT-GOA/DSC-Learning-Resources/tree/main/Cloud%20Computing)
+- [Competitve Programming](https://github.com/DSC-IIT-GOA/DSC-Learning-Resources/tree/main/Competitive%20Programming)
 - [Cybersecurtiy](Cybersecurtiy)
-- [Machine Learning](Machine Learning)
-- [Web Dev](Web Development)
+- [Machine Learning](https://github.com/DSC-IIT-GOA/DSC-Learning-Resources/tree/main/Machine%20Learning)
+- [Web Dev](https://github.com/DSC-IIT-GOA/DSC-Learning-Resources/tree/main/Web%20Development)
 - Women in Tech Programs

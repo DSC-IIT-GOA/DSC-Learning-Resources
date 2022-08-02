@@ -34,7 +34,7 @@ Artificial Intelligence is advancing by leaps and bounds. Recent research in the
 
 Even if your profession is not directly related to tech, still it's said that AI will disrupt every field in one or other ways. That's why you need to have at least a basic understanding of how AI works.
 
-### [AI Resource](https://github.com/srajan-kiyotaka/AI-ML-DL-Resource/AI_RESOURCE.md)
+### [AI Resource](https://github.com/srajan-kiyotaka/blob/main/AI-ML-DL-Resource/AI_RESOURCE.md)
 
 <div align="center">
 <H1>
@@ -46,7 +46,7 @@ Machine Learning
 
 Machine Learning is the field of study that gives computers the capability to learn without being explicitly programmed. ML is one of the most exciting technologies that one would have ever come across. As it is evident from the name, it gives the computer that makes it more similar to humans: The ability to learn. Machine learning is actively being used today, perhaps in many more places than one would expect.
 
-### [ML Resource](https://github.com/srajan-kiyotaka/AI-ML-DL-Resource/ML_RESOURCE.md)
+### [ML Resource](https://github.com/srajan-kiyotaka/blob/main/AI-ML-DL-Resource/ML_RESOURCE.md)
 
 <div align="center">
 <H1>
@@ -60,11 +60,11 @@ Deep learning is a subset of machine learning, which is essentially a neural net
 
 Deep learning drives many artificial intelligence (AI) applications and services that improve automation, performing analytical and physical tasks without human intervention. Deep learning technology lies behind everyday products and services (such as digital assistants, voice-enabled TV remotes, and credit card fraud detection) as well as emerging technologies (such as self-driving cars).
 
-### [Deep learning Resource](https://github.com/srajan-kiyotaka/AI-ML-DL-Resource/DL_RESOURCE.md)
+### [Deep learning Resource](https://github.com/srajan-kiyotaka/blob/main/AI-ML-DL-Resource/DL_RESOURCE.md)
 
 <div align="center">
 
-# [BOOK](https://github.com/srajan-kiyotaka/AI-ML-DL-Resource/BOOK.md)
+# [BOOK](https://github.com/srajan-kiyotaka/blob/main/AI-ML-DL-Resource/BOOK.md)
 
 </div>
 

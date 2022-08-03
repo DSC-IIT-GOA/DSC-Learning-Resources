@@ -29,4 +29,4 @@ Learning Resources
 - [Cybersecurtiy](Cybersecurtiy)
 - [Machine Learning](https://github.com/DSC-IIT-GOA/DSC-Learning-Resources/tree/main/Machine%20Learning)
 - [Web Dev](https://github.com/DSC-IIT-GOA/DSC-Learning-Resources/tree/main/Web%20Development)
-- Women in Tech Programs
+- [Women in Tech](https://github.com/DSC-IIT-GOA/Women-In-Tech)
